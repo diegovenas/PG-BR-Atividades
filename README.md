@@ -8,7 +8,7 @@ Devido a necessidade de fazer uma divulgação mais acertivas, optei por desenvo
 
 A aplicação é "linkada" com a plataforma do Mainchimp, onde os dados digitados nos campos dos formulários sao enviados para uma lista de contato, onde podemos ter acesso de forma gratuita e selecionar um determinado numero de emails e enviar campanhas promocionais, tudo isso de uma unica vez, seria basicamente como uma agenda virtual automática.
 
-<a href="https://brigadista.vercel.app/" target= "_blank">
+<a href="https://brigadista.vercel.app/" target="_blank">
   <p align="center">
   <img width="700" height="500" src="/images/readme.png">
   </p>  
